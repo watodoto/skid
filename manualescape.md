@@ -31,3 +31,6 @@ python manualescape.py
 9. paste it into the script and press enter
 <img width="422" height="56" alt="image" src="https://github.com/user-attachments/assets/ad7b33c9-9248-444c-88b9-3370f11152c2" />
 
+### troubleshooting
+
+to be added
