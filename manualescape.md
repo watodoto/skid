@@ -3,6 +3,9 @@ this is expecting you to be using windows obv
 
 ### installing part
 1. download manualescape files from [the thread](https://discord.com/channels/1375357349425971231/1544493919419629670/1558154241544159243)
+Or if you're lazy then grab them here:
+ - https://dl.wato.dpdns.org/manualescape.py
+ - https://dl.wato.dpdns.org/device_management_backend_pb2.py
 2. install python from the [microsoft store](https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=en-US&gl=US)
 3. install the shit you need
 ```cmd
@@ -20,7 +23,7 @@ python manualescape.py
    - just flip the fucking Chromebook over
 2. type it into manualescape and press etner
 3. open https://accounts.google.com/v3/signin/identifier?flow=deviceEnrollment&flowName=GlifSetupChromeOs in incognito mode
-4. open devtools with Ctrl shift i
+4. open devtools with Ctrl+Shift+I
 5. go to application, then drop-down "Cookies"
 6. sign in
 7. once it starts loading forever after you sign in, check the accounts.google cookie
