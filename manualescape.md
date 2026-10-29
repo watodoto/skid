@@ -29,4 +29,5 @@ python manualescape.py
 7. once it starts loading forever after you sign in, check the accounts.google cookie
 8. go to the value of oauth_code and copy it
 9. paste it into the script and press enter
-10. boom done you did manualescape
+<img width="422" height="56" alt="image" src="https://github.com/user-attachments/assets/ad7b33c9-9248-444c-88b9-3370f11152c2" />
+
