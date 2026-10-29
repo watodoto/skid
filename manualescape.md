@@ -25,7 +25,7 @@ python manualescape.py
 3. open https://accounts.google.com/v3/signin/identifier?flow=deviceEnrollment&flowName=GlifSetupChromeOs in incognito mode
 4. open devtools with Ctrl+Shift+I
 5. go to application, then drop-down "Cookies"
-6. sign in
+6. sign in with your school account
 7. once it starts loading forever after you sign in, check the accounts.google cookie
 8. go to the value of oauth_code and copy it
 9. paste it into the script and press enter
