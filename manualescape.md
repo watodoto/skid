@@ -3,7 +3,7 @@ this is expecting you to be using windows obv
 
 ### installing part
 1. download manualescape files from [the thread](https://discord.com/channels/1375357349425971231/1544493919419629670/1558154241544159243)
-Or if you're lazy then grab them here:
+, or if you're lazy then grab them here:
  - https://dl.wato.dpdns.org/manualescape.py
  - https://dl.wato.dpdns.org/device_management_backend_pb2.py
 2. install python from the [microsoft store](https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=en-US&gl=US)
