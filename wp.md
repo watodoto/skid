@@ -15,10 +15,10 @@
 12. if you did it right then your screen will go black after the last press and get an "update" scare screen
 ### second devmode boot
 13. esc refresh power again
-14. boot from internal disk again
 15. Ctrl d to enter developer mode again
 16. boot from internal disk again
 17. wait 5 minutes again
+14. boot from internal disk again
 18. ctrl alt refresh
 19. run `gsctool -a -I AllowUnverifiedRo:always` and do the pp sequence
 20. run `gsctool -a -w disable` and do the pp sequence
