@@ -11,7 +11,7 @@ python -m pip install protobuf requests
 ```
 4. run manualescape
 ```cmd
-cd %USERPROFILE%\Downloads
+cd %USERPROFILE%\Downloads        # or wherever its stored
 python manualescape.py
 ```
 ### using part
