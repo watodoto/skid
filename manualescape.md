@@ -22,7 +22,7 @@ python manualescape.py
    - sign out, press alt+v, then look at **SN:** in the top right of the screen
    - just flip the fucking Chromebook over
 2. type it into manualescape and press enter
-3. open https://accounts.google.com/v3/signin/identifier?flow=deviceEnrollment&flowName=GlifSetupChromeOs in incognito mode
+3. open https://accounts.google.com/v3/signin/identifier?flow=deviceEnrollment&flowName=GlifSetupChromeOs in **incognito mode**
 4. open devtools with Ctrl+Shift+I
 5. go to application, then drop-down "Cookies"
 6. sign in with your school account
